@@ -1,0 +1,15 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgLight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FAFAF7"/>
+      <stop offset="100%" stop-color="#EFECE6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#bgLight)"/>
+  <text x="600" y="95" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#1A1A1A">
+    Hi, I'm Roger Djuikoo 👋
+  </text>
+  <text x="600" y="140" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#1A1A1A">
+    Computer Science and Software Engineering Student @ UQAM
+  </text>
+</svg>

@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FAFAF7,100:EFECE6&height=150&section=header&text=Hi,%20I'm%20Roger Djuikoo%20%F0%9F%91%8B&fontSize=38&fontColor=1A1A1A&fontAlignY=40&desc=Computer%20Science%20and%20Software%20Engineering%20Student%20%40%20UQAM&descAlignY=65&descSize=16&descColor=1A1A1A" width="100%"/>
+  <img alt="Roger Djuikoo — Computer Science and Software Engineering Student @ UQAM" src="assets/banner-light.svg" width="100%">
 </p>
-
 
 ---
 
@@ -24,7 +23,7 @@ Computer Science student at **UQAM** (Montréal). I build robust systems with a 
 | **CI/CD** | GitHub Actions · GitLab CI |
 | **Containers** | Docker |
 | **Cloud** | AWS |
-| **Security** | Trivy · GitLeaks |
+| **Security** | Trivy · Gitleaks |
 | **Tools** | Linux · Git · Maven · Make · Valgrind |
 
 ---

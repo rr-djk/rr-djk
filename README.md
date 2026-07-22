@@ -6,19 +6,19 @@
 
 ## 👤 About Me
 
-Computer Science student at **UQAM** (Montréal). I build robust systems with a **DevOps → Cloud → Security** mindset: writing clean code, automating test/build pipelines, securing applications early (SAST/SCA), and moving from manual AWS deployments toward reproducible Infrastructure as Code.
+Computer Science student at **UQAM** (Montréal) pursuing a career in **DevSecOps and Cloud Engineering**. My current focus is on building secure CI/CD pipelines, integrating security tools into the software delivery lifecycle, and expanding my AWS skills, with the goal of adopting Infrastructure as Code practices.
 
 - 🎓 **Education:** B.Sc. in Computer Science & Software Engineering (UQAM)
-- 💡 **Core Focus:** Building end-to-end secure pipelines & Cloud architectures
-- 🎯 **Concepts:** OOP, Security by Design, CI/CD Automation
-- 💼 **Open to:** Software Engineering & DevOps / DevSecOps Internship Opportunities
+- 💡 **Current Focus:** CI/CD automation, application security (SAST/SCA), and cloud infrastructure (AWS)
+- 🎯 **Career Goal:** DevSecOps / Cloud Engineer
+- 💼 **Seeking:** DevOps, DevSecOps, or Software Engineering Internship Opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-| | |
-|---|---|
+| Category | Technologies |
+|-----------|--------------|
 | **Languages** | Java · C++ · C · Python · SQL · Bash |
 | **CI/CD** | GitHub Actions · GitLab CI |
 | **Containers** | Docker |
